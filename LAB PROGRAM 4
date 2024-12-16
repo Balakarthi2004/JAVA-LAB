@@ -1,0 +1,73 @@
+import.java.util*,
+
+abstract class Animal {
+
+Public abstract Void ext ();
+
+public abstract void sleep();
+
+}
+
+Class Lion extends Animal {
+
+      Public Void eat Of
+
+      System.out.println("Lion, is eating");
+
+    }
+
+    Public Void sleep () {
+
+    System.out.println(" Lion is sleeping ");
+    }
+}    
+
+Class Tiger extends Animal {
+
+Public Void eat () {
+
+system.out.println(" Tiger eats flesh");
+
+Publi Void sleep()
+
+System.out.println("Tiger is sleeping);
+
+}
+
+}
+
+Class Deer extends Animal {
+
+Publi Void eat(){
+
+System.out.println("Deer eats grass);
+
+Public void sleep () {
+
+System.out.println("Deer is sleeping);
+
+}
+
+}
+
+Public class Animal Details {
+
+Publi Static Void main(string[] args){
+
+Lion l = new Lion ();
+
+Tiger t = new Tiger ();
+
+Deer d = new Deer ();
+
+l.eat();l.sleep ();
+
+t.eat() ;t.sleep ();
+
+d.eat (); d.sleep ();
+
+System.out.println("BALAKARTHIKEYAN");
+        
+System.out.println("1BM23CS062");
+
+}
