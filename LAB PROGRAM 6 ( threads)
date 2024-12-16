@@ -50,7 +50,7 @@ class Tmain
         Thread cseThread = new ThreadEx.CSEDisplayThread();
         bmsThread.start();
         cseThread.start();
-        System.out.println("Bhavya J Makadia");
-        System.out.println("1BM23CS064");
+        System.out.println("Balakarthikeyan");
+        System.out.println("1BM23CS062");
     }
 }
